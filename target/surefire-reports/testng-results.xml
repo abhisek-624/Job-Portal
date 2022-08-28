@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-04-11T18:37:44 IST" name="Suite" finished-at="2022-04-11T18:56:06 IST" duration-ms="1102368">
+    <groups>
+    </groups>
+    <test started-at="2022-04-11T18:37:44 IST" name="WeWorkRemotely" finished-at="2022-04-11T18:39:18 IST" duration-ms="94359">
+      <class name="com.WeWorkRemotely.Test.WeWorkRemotelyTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.WeWorkRemotely.Test.WeWorkRemotelyTest@732c2a62]" started-at="2022-04-11T18:37:44 IST" name="setUp" finished-at="2022-04-11T18:37:48 IST" duration-ms="4383" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="getCompanyNames()[pri:0, instance:com.WeWorkRemotely.Test.WeWorkRemotelyTest@732c2a62]" started-at="2022-04-11T18:37:48 IST" name="getCompanyNames" finished-at="2022-04-11T18:39:17 IST" duration-ms="89057" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getCompanyNames -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.WeWorkRemotely.Test.WeWorkRemotelyTest@732c2a62]" started-at="2022-04-11T18:39:17 IST" name="tearDown" finished-at="2022-04-11T18:39:18 IST" duration-ms="841" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.WeWorkRemotely.Test.WeWorkRemotelyTest -->
+    </test> <!-- WeWorkRemotely -->
+    <test started-at="2022-04-11T18:39:18 IST" name="Remotehub" finished-at="2022-04-11T18:43:31 IST" duration-ms="252756">
+      <class name="com.WeWorkRemotely.Test.RemoteHubTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.WeWorkRemotely.Test.RemoteHubTest@6babf3bf]" started-at="2022-04-11T18:39:18 IST" name="setUp" finished-at="2022-04-11T18:39:20 IST" duration-ms="1838" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="getNamesfromRemoteHub()[pri:0, instance:com.WeWorkRemotely.Test.RemoteHubTest@6babf3bf]" started-at="2022-04-11T18:39:20 IST" name="getNamesfromRemoteHub" finished-at="2022-04-11T18:43:30 IST" duration-ms="250059" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getNamesfromRemoteHub -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.WeWorkRemotely.Test.RemoteHubTest@6babf3bf]" started-at="2022-04-11T18:43:30 IST" name="tearDown" finished-at="2022-04-11T18:43:31 IST" duration-ms="858" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.WeWorkRemotely.Test.RemoteHubTest -->
+    </test> <!-- Remotehub -->
+    <test started-at="2022-04-11T18:43:31 IST" name="Dice" finished-at="2022-04-11T18:45:15 IST" duration-ms="104025">
+      <class name="com.WeWorkRemotely.Test.DiceTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.WeWorkRemotely.Test.DiceTest@3fb1549b]" started-at="2022-04-11T18:43:31 IST" name="setUp" finished-at="2022-04-11T18:43:33 IST" duration-ms="1765" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="getCompanyNames()[pri:0, instance:com.WeWorkRemotely.Test.DiceTest@3fb1549b]" started-at="2022-04-11T18:43:33 IST" name="getCompanyNames" finished-at="2022-04-11T18:45:14 IST" duration-ms="101367" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getCompanyNames -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.WeWorkRemotely.Test.DiceTest@3fb1549b]" started-at="2022-04-11T18:45:14 IST" name="tearDown" finished-at="2022-04-11T18:45:15 IST" duration-ms="890" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.WeWorkRemotely.Test.DiceTest -->
+    </test> <!-- Dice -->
+    <test started-at="2022-04-11T18:45:15 IST" name="Remotive" finished-at="2022-04-11T18:54:59 IST" duration-ms="584054">
+      <class name="com.WeWorkRemotely.Test.RemotiveTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.WeWorkRemotely.Test.RemotiveTest@7a419da4]" started-at="2022-04-11T18:45:15 IST" name="setUp" finished-at="2022-04-11T18:45:17 IST" duration-ms="1786" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="getRemotiveData()[pri:0, instance:com.WeWorkRemotely.Test.RemotiveTest@7a419da4]" started-at="2022-04-11T18:45:17 IST" name="getRemotiveData" finished-at="2022-04-11T18:54:58 IST" duration-ms="581090" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getRemotiveData -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.WeWorkRemotely.Test.RemotiveTest@7a419da4]" started-at="2022-04-11T18:54:58 IST" name="tearDown" finished-at="2022-04-11T18:54:59 IST" duration-ms="1177" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.WeWorkRemotely.Test.RemotiveTest -->
+    </test> <!-- Remotive -->
+    <test started-at="2022-04-11T18:54:59 IST" name="RemoteOK" finished-at="2022-04-11T18:56:06 IST" duration-ms="66940">
+      <class name="com.WeWorkRemotely.Test.RemoteOkTest">
+        <test-method is-config="true" signature="generateExcel()[pri:0, instance:com.WeWorkRemotely.Test.RemoteOkTest@3d5c822d]" started-at="2022-04-11T18:37:41 IST" name="generateExcel" finished-at="2022-04-11T18:37:44 IST" duration-ms="2619" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- generateExcel -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.WeWorkRemotely.Test.RemoteOkTest@3d5c822d]" started-at="2022-04-11T18:54:59 IST" name="setUp" finished-at="2022-04-11T18:55:01 IST" duration-ms="1684" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="getNamesfromRemoteHub()[pri:0, instance:com.WeWorkRemotely.Test.RemoteOkTest@3d5c822d]" started-at="2022-04-11T18:55:01 IST" name="getNamesfromRemoteHub" finished-at="2022-04-11T18:56:05 IST" duration-ms="64313" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getNamesfromRemoteHub -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.WeWorkRemotely.Test.RemoteOkTest@3d5c822d]" started-at="2022-04-11T18:56:05 IST" name="tearDown" finished-at="2022-04-11T18:56:06 IST" duration-ms="939" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="excelClose()[pri:0, instance:com.WeWorkRemotely.Test.RemoteOkTest@3d5c822d]" started-at="2022-04-11T18:56:06 IST" name="excelClose" finished-at="2022-04-11T18:56:06 IST" duration-ms="27" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- excelClose -->
+      </class> <!-- com.WeWorkRemotely.Test.RemoteOkTest -->
+    </test> <!-- RemoteOK -->
+  </suite> <!-- Suite -->
+</testng-results>

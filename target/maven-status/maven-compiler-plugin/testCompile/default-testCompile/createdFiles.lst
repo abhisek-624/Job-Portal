@@ -1,0 +1,11 @@
+com\pageObjects\RemoteOk.class
+com\WeWorkRemotely\Test\RemoteOkTest.class
+com\generics\TestBase.class
+com\pageObjects\Dice.class
+com\pageObjects\RemoteHub.class
+com\WeWorkRemotely\Test\RemotiveTest.class
+com\pageObjects\Remotive.class
+com\pageObjects\WeWorkRemotely.class
+com\WeWorkRemotely\Test\DiceTest.class
+com\WeWorkRemotely\Test\RemoteHubTest.class
+com\WeWorkRemotely\Test\WeWorkRemotelyTest.class

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="WeWorkRemotely(failed)">
+    <classes>
+      <class name="com.WeWorkRemotely.Test.WeWorkRemotelyTest">
+        <methods>
+          <include name="getCompanyNames"/>
+          <include name="excelClose"/>
+        </methods>
+      </class> <!-- com.WeWorkRemotely.Test.WeWorkRemotelyTest -->
+    </classes>
+  </test> <!-- WeWorkRemotely(failed) -->
+  <test thread-count="5" name="Remotehub(failed)">
+    <classes>
+      <class name="com.WeWorkRemotely.Test.RemoteHubTest">
+        <methods>
+          <include name="getNamesfromRemoteHub"/>
+          <include name="excelClose"/>
+        </methods>
+      </class> <!-- com.WeWorkRemotely.Test.RemoteHubTest -->
+    </classes>
+  </test> <!-- Remotehub(failed) -->
+</suite> <!-- Failed suite [Suite] -->

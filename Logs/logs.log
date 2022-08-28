@@ -1,0 +1,7 @@
+2022-08-28 21:36:39,925  INFO [main] TestBase:58 - launching chrome browser
+ 2022-08-28 21:36:47,113  INFO [main] TestBase:70 - Navigating to The URL 
+ 2022-08-28 21:36:47,138  INFO [main] CustomListener:14 - test started
+ 2022-08-28 21:36:47,147  INFO [main] TestPage01:21 - Type code here.
+ 2022-08-28 21:36:47,150  INFO [main] CustomListener:20 - test Test is passed
+ 2022-08-28 21:36:50,216  INFO [main] TestBase:88 - Browser closed
+ 
